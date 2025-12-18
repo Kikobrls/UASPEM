@@ -1,0 +1,1 @@
+"Gaji bersih: " . $gaji- . "\n"
