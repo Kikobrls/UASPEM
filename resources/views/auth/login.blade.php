@@ -66,7 +66,7 @@
 
             <div class="mt-4">
                 <div class="alert alert-info">
-                    <h6><i class="icon fas fa-info"></i> Akun Demo:</h6>
+                    <h6><i class="icon fas fa-info"></i> Akun yang tersedia:</h6>
                     <small>
                         <strong>Admin:</strong> admin@gmail.com / admin123<br>
                         <strong>Manager:</strong> manager@gmail.com / manager123<br>
